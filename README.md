@@ -1,7 +1,16 @@
 ### Hi there 👋
-I am a very lazy man,and I like playing computer game🎲.
-------------------
-So let's stop there, it's rude to write any mor...
++ I am a very lazy man,and I like playing computer game🎲.
+-----------------
+I love github and I'm currently learning programming languages and algorithms, I want to become a useful person for our this family.
+```C
+#include <stdio.h>
+int main(int argc, char *argv[])
+{
+  printf("Hello, my brothers and sisters!\n");
+  return 0;
+ }
+```
+**let's run**~
 <!--
 **haoleng-Wick/haoleng-Wick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
